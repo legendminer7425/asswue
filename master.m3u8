@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-
-# Hindi Streams
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.2",LANGUAGE="hin"
-https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-V3/hdntl=exp=1722676688~acl=%2f*~id=6e157eee95b14b3eb679549f6f4c4043-1720619781407~data=hdntl~hmac=052d214e847b0d292252fd8d4d6d2f13c26ff46306d15ea5fe360e46630d70d6/master_4500.m3u8
